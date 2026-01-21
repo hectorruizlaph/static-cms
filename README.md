@@ -45,3 +45,13 @@ npm run test
 to change the data in the page go to data.json
 
 [Video Link](https://youtu.be/88UNczXkOdU)
+
+Prompt log:
+create a project-overview.md with the tasks detailed in @image.png
+lets strat with the first task @project-overview.md 
+lets continue with the second task @project-overview.md 
+lets continue with the third task @project-overview.md 
+lets continue with task 4 @project-overview.md 
+lets continue @project-overview.md @package.json @app/components/__tests__/PageBuilder.test.tsx @jest.config.js @jest.setup.js
+lets continue with task 5 @project-overview.md 
+
