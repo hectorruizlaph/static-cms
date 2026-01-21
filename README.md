@@ -44,4 +44,4 @@ npm run test
 
 to change the data in the page go to data.json
 
-[![Video Title]](https://youtu.be/88UNczXkOdU)
+[Video Link](https://youtu.be/88UNczXkOdU)
