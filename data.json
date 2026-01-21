@@ -1,0 +1,81 @@
+[
+  {
+    "type": "header",
+    "props": {
+      "logoText": "Logo",
+      "navLinks": [
+        { "text": "Home", "href": "/" },
+        { "text": "About", "href": "/about" },
+        { "text": "Pricing", "href": "/pricing" },
+        { "text": "Contact", "href": "/contact" }
+      ]
+    }
+  },
+  {
+    "type": "hero",
+    "props": {
+      "title": "Welcome to our CMS",
+      "subtitle": "Build amazing pages with ease",
+      "ctaText": "Learn More",
+      "ctaLink": "/about"
+    }
+  },
+  {
+    "type": "feature-list",
+    "props": {
+      "features": [
+        { "icon": "🚀", "title": "Fast", "description": "Blazing fast performance" },
+        { "icon": "💡", "title": "Intuitive", "description": "Easy to use interface" },
+        { "icon": "🛠️", "title": "Flexible", "description": "Highly customizable" }
+      ]
+    }
+  },
+  {
+    "type": "pricing",
+    "props": {
+      "plans": [
+        { "name": "Basic", "price": "$10", "features": ["Feature A", "Feature B"] },
+        { "name": "Pro", "price": "$30", "features": ["Feature A", "Feature B", "Feature C"] },
+        { "name": "Premium", "price": "$150", "features": ["Feature A", "Feature B", "Feature C", "Feature D", "Feature E", "Feature F"] }
+      ]
+    }
+  },
+  {
+    "type": "call-to-action",
+    "props": {
+      "title": "Ready to get started?",
+      "subtitle": "Join us now and start building your dream website.",
+      "buttonText": "Sign Up Now",
+      "buttonLink": "/signup"
+    }
+  },
+  {
+    "type": "testimonials",
+    "props": {
+      "title": "What Our Customers Say",
+      "testimonials": [
+        {
+          "quote": "This is the best page builder I have ever used. It's so easy to use and the results are amazing.",
+          "author": "Jane Doe",
+          "company": "Acme Inc."
+        },
+        {
+          "quote": "I was able to create a beautiful website in just a few hours. I would highly recommend this to anyone.",
+          "author": "John Smith",
+          "company": "XYZ Corp."
+        }
+      ]
+    }
+  },
+  {
+    "type": "footer",
+    "props": {
+      "copyright": "© 2024 Your Company. All rights reserved.",
+      "socialLinks": [
+        { "name": "Facebook", "href": "https://facebook.com" },
+        { "name": "Twitter", "href": "https://twitter.com" },
+        { "name": "Instagram", "href": "https://instagram.com" }
+      ]
+    }
+  }
+]
